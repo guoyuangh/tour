@@ -1,0 +1,6 @@
+#defaultCountdown { position:relative; text-align:center; width:1000px; height:320px;}
+#timer{ position:absolute; right:0px; bottom:120px;}
+#vals{}
+#timer .title{ font:bold 24px/2em "微软雅黑"; color:#ad3; text-shadow:#360 2px 2px 3px;}
+.numbs{ position:relative; float:left; margin:10px; padding:10px; font:bold 64px/1.2em Arial, Helvetica, sans-serif; background:rgba(0,0,0,0.6); color:#fff; border-radius:10px; box-shadow:0px 3px 15px #000;}
+.labs{ position:absolute; bottom:5px; left:0; display:block; width:100%; font:normal 12px/1.2em "微软雅黑"; text-align:center; color:#999;}

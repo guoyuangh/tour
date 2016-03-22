@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="../js/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../js/font-awesome-4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+<script type="text/javascript" src="../js/jquery-1.12.1.min.js"></script>
+<script type="text/javascript" src="../js/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>华奥星空——花生游专题</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="page_header">
+  <div class="container center-block clearfix">
+    <div class="page_logo fl"><img src="../img/page_logo.png" /></div>
+    <ul class="page_menu nav nav-pills fl">
+      <li class="active"><a>首页</a></li>
+      <li><a>赛事门票</a></li>
+      <li><a>五大联赛</a></li>
+      <li><a>赛事旅行</a></li>
+      <li><a>体育资讯</a></li>
+    </ul>
+    <div class="page_search fr hidden-sm hidden-xs">
+      <form class="form-inline">
+        <div class="form-group">
+          <div class="input-group">
+            <input type="text" class="form-control" id="page_search" placeholder="搜赛事|门票|目的地">
+            <a class="input-group-addon"><span class="fa fa-search"></span></a> </div>
+        </div>
+      </form>
+    </div>
+    <!--/.page_search--> 
+  </div>
+  <!--/.container--> 
+</div>
+<!--/.page_header-->
+<div class="page_bodyer"><!-- TemplateBeginEditable name="page_bodyer" -->page_bodyer<!-- TemplateEndEditable --> </div>
+<!--/.page_bodyer-->
+<div class="page_footer">
+  <div class="footer_link">
+    <div class="container center-block text-center clearfix"> <span class="copyright">©2003-2015北京华奥星空科技发展有限责任公司版权所有</span> | <a>关于华奥星空</a> | <a>隐私保护</a> | <a>网建服务</a> | <a>广告服务</a> | <a>招聘信息</a> | <a>联系我们</a> </div>
+  </div>
+  <div class="footer_info">
+    <div class="container center-block text-center clearfix">
+      <ul>
+        <li>网上传播视听节目许可证：</li>
+        <li>发证机关：国家广播电影电视总局</li>
+        <li>&nbsp;</li>
+        <li>ICP经营许可证：</li>
+        <li>京公网安备 号</li>
+        <li>&nbsp;</li>
+        <li>客服保障电话：400</li>
+        <li>客服保障邮箱：</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!--/.page_footer-->
+<!-- TemplateBeginEditable name="page_script" --><!-- TemplateEndEditable -->
+</body>
+</html>
